@@ -7,18 +7,7 @@
 
 ## Configuration de la base de donnée
 
-**Le copier-coller**
-
-* Pour copier c'est très simple : `Ctrl + C`
-* Pour coller toujours aussi simple : `Ctrl + V`
-
-Ca s'utilise comme si tu faisais avec les clicks mais en plus rapide.
-
-**Le couper**
-
-* Pour couper (je sais que tu n'aime pas) : `Ctrl + X`
-
-Là, pas besoin d'explications, même utilisation que précédemment
+> Se rendre dans le dossier : `/script/` depuis la racine du site
 
 ## On approfondit un peu plus
 
