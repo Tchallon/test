@@ -1,10 +1,11 @@
-# Tutoriel et memento des raccourcis clavier
+# Installation et configuration du site d'histeria
 
-## Pourquoi ?
+## Prérequis
 
-**Les raccourcis clavier**, C'est du gain de temps considérable ! Par exemple il te faut même pas une seconde pour copier alors qu'avant, click droit, je cherche copier, je clique. Tu reduit ton temps par 3. Bref, ceci n'est qu'une proposition tu n'est pas obligé de les utiliser.
+* Une base de donnée MySql
+* Un serveur possédant PhP 7.2 minimum
 
-## Les basiques
+## Configuration de la base de donnée
 
 **Le copier-coller**
 
