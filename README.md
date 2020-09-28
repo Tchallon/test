@@ -24,6 +24,7 @@
 > * server_adr, correspond à l'ip / host du serveur où les commandes seront envoyées
 > * server_port, correspond au port de connexion du serveur
 > * rcon_passwd, correspond au mot de passe pour envoyer les commandes rcon
+
 Je te conseille dejà de rentrer les données d'un serveur de test et une fois la configuration terminé, revenir mettre les valeurs du vrai serveur.
 
 ## Installation de la base de donnée
