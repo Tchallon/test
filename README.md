@@ -33,6 +33,7 @@ Je te conseille dejà de rentrer les données d'un serveur de test et une fois l
 * Y déposer le fichier `stats.csv` contenant la table de la v4.5
 * Ouvrir sur le site web : `<nom de domaine>/init/main.php`
 Si une anomalie est trouvé merci de me contacter
+
 *Le site est automatiquement mit en maintenance une fois ce fichier ouvert*
 *Pour la suprimer rend toi dans le panel admin dispo ici : `<nom de domaine>/admin/`*
 Y rentrer les identifiants qu'on s'est envoyé sur discord
